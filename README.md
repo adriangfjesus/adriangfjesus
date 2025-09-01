@@ -1,9 +1,5 @@
 Olá, olá! Eu sou o Adrian! 👋
 
-# 📝 Estudos e Projetos
-
-**Descrição:**  
-Repositório para registrar meus estudos e projetos em tecnologia, organizando aprendizado, práticas e experiências de forma clara e estruturada.
 
 ---
 
@@ -15,7 +11,7 @@ Ele serve para acompanhar meu progresso enquanto estudo **Análise e Desenvolvim
 
 ## 📚 O que estou aprendendo
 - 💻 Conceitos básicos de tecnologia  
-- 🖥 Ferramentas e linguagens de programação  
+- 🖥 Ferramentas e linguagens de programação como Python, HTML e CSS
 - 🛠 Boas práticas de desenvolvimento  
 - 📊 Estruturação de projetos e organização de aprendizado
 
@@ -28,6 +24,27 @@ Ele serve para acompanhar meu progresso enquanto estudo **Análise e Desenvolvim
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-fernandes-982b98224)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriangfjesus@gmail.com)
+
+---
+
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: px;" 
+    src="https://github-readme-stats.vercel.app/api?username=adriangfjesus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriangfjesus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
